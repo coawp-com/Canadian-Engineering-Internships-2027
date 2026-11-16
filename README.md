@@ -25,7 +25,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **RAM Consulting** | Construction Management, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/69dcf368-4e16-40ce-a685-488a55cfee53?from=github-engineering) |
 | **Airbus** | Tooling, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 12 | [Apply ↗](https://coawp.com/go/345ce394-fd48-4812-8187-6e90e0086a36?from=github-engineering) |
 | **Ciena** | Hardware (PCBA) Design and Verification, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/1c7a5760-a628-4fda-8208-c7c6b31e99b6?from=github-engineering) |
-| **CLEAResult** | Engineering, Co-op | Ontario<br><sub>Remote</sub> | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/b32bd3de-706e-433b-91f6-6a7d436dc23d?from=github-engineering) |
 | **Groupe Meloche** | Metrologist (Calibration), Intern | Canada | — | Nov 12 | [Apply ↗](https://coawp.com/go/ae96eece-ffd3-4e8f-8a4f-ac99e23b52c9?from=github-engineering) |
 | **IKO** | Corporate Process Engineering, Co-op | Brampton, ON | Winter 2027<br><sub>12 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/be05f2d1-60bf-4727-853d-81d6b4818884?from=github-engineering) |
 | **Marvell** | Analog Layout, Co-op | Toronto, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/7b219e41-4288-43b9-b750-95225903b5d5?from=github-engineering) |
@@ -174,6 +173,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **J.D. Irving** | Chemical Engineering Student – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/73e56732-df12-4226-8045-eda4da0ba38f?from=github-engineering) |
 | **CURA** | Engineering, Co-op | Calgary, AB | — | Nov 2 | [Apply ↗](https://coawp.com/go/437b615f-8993-453f-ae90-a9e2a03561a8?from=github-engineering) |
 | **Moment Energy** | Certification Engineer, Co-op | Surrey, BC | — | Nov 2 | [Apply ↗](https://coawp.com/go/df7e2505-4f82-4046-8c4b-9e3164f92701?from=github-engineering) |
+| **Alcoa** | Environment-Energy – Chemical Engineering, Intern | Quebec | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/c29a2c80-cb64-47b3-9915-09ec5495d278?from=github-engineering) |
 | **AtkinsRéalis** | Civil Engineering, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/d93c57fd-af27-4b04-9876-fbc4a990dc7d?from=github-engineering) |
 | ↳ | Rail Infrastructure, Co-op | Canada | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/29c00b52-bd4d-424a-af0b-451370492d27?from=github-engineering) |
 | ↳ | Rail Infrastructure, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/0750a0df-6852-47da-96fc-6838edc020a2?from=github-engineering) |
