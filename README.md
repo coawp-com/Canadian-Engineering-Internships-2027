@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**595 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**594 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>595 open roles</sub>
+<sub>594 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -219,7 +219,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Structures, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/f56d5e47-24b2-4b51-9f49-84b8a2af2a97?from=github-engineering) |
 | ↳ | Structures, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/e40f6698-65cf-46b3-8b3a-80ef4ab789a3?from=github-engineering) |
 | **Nutrien** | Mill Maintenance Engineering, Co-op | Lanigan, SK | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/d51ee666-d6aa-41c1-9281-12ac8ac86dd8?from=github-engineering) |
-| **PCL Construction** | Mechanical Estimating, Intern | Edmonton, AB | Winter 2027<br><sub>8 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/339b12c9-ffcf-4091-a49e-19df3012119a?from=github-engineering) |
 | **Morton Salt** | Engineering, Co-op | Windsor, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/ae3544ec-791a-42ec-ae8d-732e50451fef?from=github-engineering) |
 | **MDA Space** | Engineering – Radiofrequency, Intern | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/41163fc4-daaf-4ea8-a921-1b567ad603b2?from=github-engineering) |
 | **Elk Valley Resources** | Mechanical Engineering, Co-op | Sparwood, BC<br>Elkford, BC | Summer 2027<br><sub>8 or 12 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/04da4cbb-b08d-455b-9b7b-19eda1288ba9?from=github-engineering) |
