@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**595 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**596 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>595 open roles</sub>
+<sub>596 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -41,6 +41,8 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Stantec** | Electrical Engineering – Buildings, Intern | Yellowknife, NT<br>Whitehorse, YT | Summer 2027<br><sub>4 or 12 months</sub> | Nov 13 | [Apply ↗](https://coawp.com/go/e7ba8553-9d34-47d3-a435-184b5f29a1a6?from=github-engineering) |
 | **Al-Terra Engineering** | Landscape Architect, Intern | Edmonton, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/2b8b4466-713c-4ce6-8f0e-5aad615f0d69?from=github-engineering) |
 | **RAM Consulting** | Construction Management, Co-op | Calgary, AB | — | Nov 13 | [Apply ↗](https://coawp.com/go/69dcf368-4e16-40ce-a685-488a55cfee53?from=github-engineering) |
+| **Almag Aluminum** | Engineering, Co-op | Brampton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/dfab63aa-ab5d-4bd4-a5bc-bbe53d59fa17?from=github-engineering) |
+| ↳ | Quality Assurance, Co-op | Brampton, ON | — | Nov 12 | [Apply ↗](https://coawp.com/go/72e3296a-fa35-46a7-bdaf-c2b083bdc1d0?from=github-engineering) |
 | **Ciena** | Hardware (PCBA) Design and Verification, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/1c7a5760-a628-4fda-8208-c7c6b31e99b6?from=github-engineering) |
 | **Groupe Meloche** | Metrologist (Calibration), Intern | Canada | — | Nov 12 | [Apply ↗](https://coawp.com/go/ae96eece-ffd3-4e8f-8a4f-ac99e23b52c9?from=github-engineering) |
 | **IKO** | Corporate Process Engineering, Co-op | Brampton, ON | Winter 2027<br><sub>12 months</sub> | Nov 12 | [Apply ↗](https://coawp.com/go/be05f2d1-60bf-4727-853d-81d6b4818884?from=github-engineering) |
@@ -172,7 +174,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **TC Energy** | Engineering, Intern | Winnipeg, MB | Summer 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/0c4ef116-0293-48a6-ad51-ae8d34ae390a?from=github-engineering) |
 | **Egis Canada** | Transportation, Intern | Kingston, ON | — | Nov 2 | [Apply ↗](https://coawp.com/go/d2a87b8e-aaae-43cb-beb9-05fb1fe5f880?from=github-engineering) |
 | ↳ | Highways, Intern | North Bay, ON | — | Nov 2 | [Apply ↗](https://coawp.com/go/e12a12ae-24fd-444f-9d2e-a0a7c11372fe?from=github-engineering) |
-| **Seaspan** | Facilities Maintenance, Intern | North Vancouver, BC | Winter 2027<br><sub>4 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/dd93ff57-8715-4540-a912-7cb0f36c4ad6?from=github-engineering) |
 | **Fleetway** | Chemical Engineering – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/e1943f72-22ba-422a-9955-525684e2d233?from=github-engineering) |
 | **J.D. Irving** | Chemical Engineering Student – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/73e56732-df12-4226-8045-eda4da0ba38f?from=github-engineering) |
 | **CURA** | Engineering, Co-op | Calgary, AB | — | Nov 2 | [Apply ↗](https://coawp.com/go/437b615f-8993-453f-ae90-a9e2a03561a8?from=github-engineering) |
