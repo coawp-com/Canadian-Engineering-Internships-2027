@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**579 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**581 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,10 +13,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>579 open roles</sub>
+<sub>581 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **ABB** | Technical Mechanical Engineering – Design, Intern<br><sub>Requires French</sub> | Québec, QC | — | Nov 17 | [Apply ↗](https://coawp.com/go/1677c326-9266-4ec8-847f-4c83699fa664?from=github-engineering) |
 | **Aecon** | Engineering – Structures, Co-op | Calgary, AB | — | Nov 17 | [Apply ↗](https://coawp.com/go/45b5be2f-0e0a-497e-906c-1aa2ebdab890?from=github-engineering) |
 | ↳ | Engineering, Co-op | Toronto, ON | — | Nov 17 | [Apply ↗](https://coawp.com/go/1e967087-65b1-44fd-8c5a-5ca9ce082cb9?from=github-engineering) |
 | ↳ | Engineering, Co-op | Sherwood Park, AB | — | Nov 17 | [Apply ↗](https://coawp.com/go/3a6e3ee4-343f-46f3-8161-79960cecd154?from=github-engineering) |
@@ -115,6 +116,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Engineering – Electrical & CADD Specialist, Co-op | Calgary, AB | Summer 2027<br><sub>16 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/15300687-b9b0-488e-9805-661eb719f36e?from=github-engineering) |
 | ↳ | Engineering – Electrical Specialist, Co-op | Calgary, AB | Summer 2027<br><sub>16 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/0d993250-7d97-4ea8-8149-f5e84ba8e6f3?from=github-engineering) |
 | ↳ | Engineering – Engineering Projects, Co-op | Calgary, AB | Summer 2027<br><sub>16 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/13955477-7759-4b64-a66a-18f41ef46223?from=github-engineering) |
+| **Trane Technologies** | Energy Engineering, Intern | Markham, ON | Summer 2027<br><sub>3 months</sub> | Nov 8 | [Apply ↗](https://coawp.com/go/101c6927-d869-47dd-905b-6b0ded3c4a71?from=github-engineering) |
 | **Kiewit** | Coordinator/​Field Engineer, Intern | Montréal, QC | Winter 2027 | Nov 7 | [Apply ↗](https://coawp.com/go/7d8629cb-596b-4243-bdee-0e20a6c2f4bc?from=github-engineering) |
 | **PowerCo** | Factory Planning, AI & Simulation, Co-op | Saint-Thomas, QC | 4 or 8 months | Nov 6 | [Apply ↗](https://coawp.com/go/ccfea0f7-8b97-4510-b6de-6692934a8192?from=github-engineering) |
 | **Aecon** | Construction, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 6 | [Apply ↗](https://coawp.com/go/a1c9d891-0272-4562-833d-6443a6096861?from=github-engineering) |
