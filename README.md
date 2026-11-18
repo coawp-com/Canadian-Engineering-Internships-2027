@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**589 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**588 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,10 +13,12 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>589 open roles</sub>
+<sub>588 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Rocket Lab** | Quality Engineering, Intern | Toronto, ON | Spring 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/2276f53e-f007-47fd-8618-be298ee2c3ad?from=github-engineering) |
+| **WSP** | Transit and Rail Engineering, Intern | Toronto, ON | — | Nov 17 | [Apply ↗](https://coawp.com/go/62ad59ef-96ca-4f60-96fa-2398b35ec871?from=github-engineering) |
 | **Stantec** | Electrical Engineering – Water, Intern | Burnaby, BC<br><sub>Hybrid</sub> | Summer 2027<br><sub>4 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/ae90a11a-193b-495c-a1dd-8c954d11d6f2?from=github-engineering) |
 | **Honeywell** | Maintenance Technician – Building Automation, Intern<br><sub>Requires French</sub> | Quebec | — | Nov 16 | [Apply ↗](https://coawp.com/go/8885d911-612b-414a-9d34-3ac1b7d51a73?from=github-engineering) |
 | **Halton Region** | Capital Engineering & Construction Services, Co-op | Oakville, ON | Summer 2027<br><sub>16 months</sub> | Nov 16 | [Apply ↗](https://coawp.com/go/cacbd11c-43df-4e4c-9353-5754c9c455f4?from=github-engineering) |
@@ -237,7 +239,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Mechanical Designer, Intern<br><sub>Requires French</sub> | Laval, QC | — | Oct 26 | [Apply ↗](https://coawp.com/go/bba83db0-50ee-4923-84a2-2329fcc23152?from=github-engineering) |
 | **BESTECH** | Mechanical Engineering (EIT), Intern | Greater Sudbury, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/fe7ea808-c8d1-4e56-bd1f-58de8b183879?from=github-engineering) |
 | **Ciena** | Electronic Reliability Engineer, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/479ad403-b757-42b7-bec5-0d09169b1247?from=github-engineering) |
-| ↳ | Optical Performance Lab Verification and Testing, Co-op | Ottawa, ON | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/aa2f3a04-f9de-4793-a41a-3b78d94e3147?from=github-engineering) |
 | **FortisBC** | Engineering – Distribution Lines, Co-op | Kelowna, BC | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/8f4a0ea0-33d6-4607-85be-5c7aa0522604?from=github-engineering) |
 | **Magna** | WCM, Co-op | Brampton, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/d8a7f708-988b-44ab-b4a5-971f7385d60e?from=github-engineering) |
 | **Nutrien** | Electrical or Mechanical Engineering, Co-op | Lanigan, SK | Summer 2027<br><sub>4 or 8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/fa2937ae-5c82-459c-87e8-cb37acc048c9?from=github-engineering) |
@@ -465,7 +466,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Primary & Secondary Flight Control Systems – Eco, Intern | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/47ca4976-f899-4ca6-9f9d-73552b99c5f1?from=github-engineering) |
 | ↳ | Project Management – Facilities and Infrastructure, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC | Winter 2027<br><sub>8 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/8a405bae-c3ed-41ef-be0f-a03bae84d9ec?from=github-engineering) |
 | ↳ | Stress Engineering – Final Assembly Line, Intern | Mississauga, ON | Winter 2027<br><sub>12 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/8c85fcf7-1a1b-4aec-bbd1-49c3df2ff60c?from=github-engineering) |
-| **Hitachi** | Hardware Test Engineering, Intern | Toronto, ON<br><sub>Hybrid</sub> | Summer 2027<br><sub>16 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/7f400d96-de1d-4a00-aa12-d50cc908e7f0?from=github-engineering) |
 | **Thermo Fisher** | Project Engineering, Co-op | Whitby, ON | — | Oct 1 | [Apply ↗](https://coawp.com/go/027710ff-c633-40de-bc1d-da20561a50bd?from=github-engineering) |
 | **Alamos Gold** | Engineering, Intern | Ontario | 12 or 16 months | Oct 1 | [Apply ↗](https://coawp.com/go/6ad3f95e-9585-4f21-96ed-5516e29f8bea?from=github-engineering) |
 | **Stantec** | Engineering – Power Delivery, Intern | Vancouver, BC | Winter 2027<br><sub>8 or 18 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/4bfc602a-7a70-4dd8-926d-ad43aef56c21?from=github-engineering) |
@@ -484,7 +484,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Stantec** | Geotechnical Engineering, Intern | Calgary, AB<br><sub>Hybrid</sub> | Summer 2027<br><sub>12 or 16 months</sub> | Sep 30 | [Apply ↗](https://coawp.com/go/874b48a1-7b54-49f2-a822-af4e4715fa28?from=github-engineering) |
 | **Baker Hughes** | Engineering & Technology, Intern | Alberta | 12 months | Sep 29 | [Apply ↗](https://coawp.com/go/b5764b9d-38a8-48b1-b3af-0effd2b13b76?from=github-engineering) |
 | **Bombardier** | Configuration and Data Management, Intern<br><sub>Requires French</sub> | Mississauga, ON | Winter 2027<br><sub>12 months</sub> | Sep 29 | [Apply ↗](https://coawp.com/go/fd66e5e4-a0e3-48a2-9ec3-5f938ada4c4a?from=github-engineering) |
-| ↳ | Product Sustainability & Strategy, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027<br><sub>8 months</sub> | Sep 29 | [Apply ↗](https://coawp.com/go/dc25fd5d-4975-4d9b-b663-9b352006bca4?from=github-engineering) |
 | **Zekelman Industries (Atlas Tube)** | Electrical Engineer, Intern | Harrow, ON | Summer 2027 | Sep 29 | [Apply ↗](https://coawp.com/go/32190911-be6c-4e28-8aae-80cb94da905d?from=github-engineering) |
 | **Terracon Geotechnique** | Field Technologist, Intern | Fort McMurray, AB | Summer 2027<br><sub>8 months</sub> | Sep 29 | [Apply ↗](https://coawp.com/go/7b127390-d270-4164-a404-d1eed27ca144?from=github-engineering) |
 | **McElhanney** | Geomatics, Intern | Fernie, BC<br>Cranbrook, BC | Summer 2027 | Sep 29 | [Apply ↗](https://coawp.com/go/0cb035d8-05eb-466f-a57a-d7c52c2799d9?from=github-engineering) |
