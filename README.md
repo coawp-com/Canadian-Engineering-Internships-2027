@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**575 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**576 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>575 open roles</sub>
+<sub>576 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -498,6 +498,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Marvell** | Analog Design, Co-op | Toronto, ON | — | Sep 23 | [Apply ↗](https://coawp.com/go/aa356695-8941-4143-82b5-42b97137b975?from=github-engineering) |
 | ↳ | Data Center Silicon Hardware Engineering, Co-op | Ottawa, ON<br>Toronto, ON | — | Sep 23 | [Apply ↗](https://coawp.com/go/2be6121b-4db4-4336-9fa4-57d016fca685?from=github-engineering) |
 | **Semtech** | Analog Design, Intern | Ottawa, ON | Summer 2027<br><sub>12 or 16 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/d209cb94-3fd0-4c7b-ae6b-af5a4a2dcc91?from=github-engineering) |
+| ↳ | Applications Engineering, Intern | Burlington, ON | — | Sep 23 | [Apply ↗](https://coawp.com/go/1f355016-c9a7-4d35-a75a-74ab3ef813d9?from=github-engineering) |
 | ↳ | Digital IC Design Engineering, Intern | Ottawa, ON | Summer 2027<br><sub>12 or 16 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/d0cc7298-bfec-41ef-b344-6994ece4308a?from=github-engineering) |
 | ↳ | IC Packaging Design, Intern | Ottawa, ON | Summer 2027<br><sub>12 or 16 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/75125d5c-0a49-4010-ac3b-d5cdbb3f3cfe?from=github-engineering) |
 | ↳ | Validation Engineering, Intern | Ottawa, ON | Summer 2027<br><sub>12 or 16 months</sub> | Sep 23 | [Apply ↗](https://coawp.com/go/92813c63-16f9-49ca-8664-9ac860f43973?from=github-engineering) |
