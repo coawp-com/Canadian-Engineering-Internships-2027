@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**572 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,10 +13,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>572 open roles</sub>
+<sub>573 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Honeywell Aerospace** | Bachelors Mech Eng, Intern | Mississauga, ON<br><sub>Hybrid</sub> | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/607c397e-46ac-41b5-ac34-ab14d655abd9?from=github-engineering) |
 | **Veolia** | Municipal Engineering, Co-op | Oakville, ON | — | Nov 19 | [Apply ↗](https://coawp.com/go/b43557e8-c837-4694-9a09-eb46c489a324?from=github-engineering) |
 | **AON3D** | Electrical Engineering, Intern | Montréal, QC | Winter 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/13aa49d8-b858-49a8-be05-0bb9b437c869?from=github-engineering) |
 | **AECOM** | Geotechnical Engineering, Intern | Mississauga, ON | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/b3b4a4c0-7f06-4505-a2e5-4341d787c12b?from=github-engineering) |
