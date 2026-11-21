@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>574 open roles</sub>
+<sub>573 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -151,7 +151,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Aecon** | Construction, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 6 | [Apply ↗](https://coawp.com/go/a1c9d891-0272-4562-833d-6443a6096861?from=github-engineering) |
 | ↳ | Estimating, Intern<br><sub>Requires French</sub> | Montréal, QC | — | Nov 6 | [Apply ↗](https://coawp.com/go/f096083c-552f-4295-bb55-aa4deb089625?from=github-engineering) |
 | **EXP** | Environmental Engineering Field Technician, Co-op | Brampton, ON<br><sub>Hybrid</sub> | — | Nov 6 | [Apply ↗](https://coawp.com/go/650d392c-717c-424c-9c1d-97efc716890f?from=github-engineering) |
-| **Elexicon Energy** | Standards & System Studies, Co-op | Ajax, ON | Winter 2027<br><sub>12 months</sub> | Nov 6 | [Apply ↗](https://coawp.com/go/bd8d2667-3801-4fb9-bf1b-c9c0c37e769a?from=github-engineering) |
 | **EPE Consulting** | Power Systems Engineer, Co-op | Toronto, ON | 12 months | Nov 6 | [Apply ↗](https://coawp.com/go/20112bb2-4927-44fb-beb2-365ae3fef878?from=github-engineering) |
 | **Avnan** | Electronics Engineering Technologist, Co-op | Mississauga, ON | Winter 2027<br><sub>4 months</sub> | Nov 5 | [Apply ↗](https://coawp.com/go/11c4e99e-a2e1-4430-80a5-214f442c6528?from=github-engineering) |
 | **Baker Hughes** | Field Engineer, Intern | Alberta | Summer 2027 | Nov 5 | [Apply ↗](https://coawp.com/go/a001760b-b60c-4ec7-935c-ca0318d68e87?from=github-engineering) |
