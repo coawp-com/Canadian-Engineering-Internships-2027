@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>573 open roles</sub>
+<sub>574 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -247,6 +247,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **ERCO Worldwide** | Process Engineering, Co-op | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/53bb2178-32a4-42eb-8e02-95fb6c901d20?from=github-engineering) |
 | **ABB** | Manufacturing Engineering, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/b0b40067-e5be-4a29-bf67-7f1dc3497608?from=github-engineering) |
 | **AtkinsRéalis** | Construction and Estimation, Intern<br><sub>Requires French</sub> | Canada | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/6ee6d199-9d2c-4cc3-bb6a-46c21220bfd1?from=github-engineering) |
+| **Gibson Energy** | Operations, Intern | Alberta | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/307ea18a-19ab-4e39-80e4-3fdc59e1de89?from=github-engineering) |
 | **Hatch** | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/91ebb8c0-b6bd-4051-8d26-5e8d633b81b5?from=github-engineering) |
 | ↳ | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/c4d248c1-d9e3-41cb-9f7e-1c241a65ec6a?from=github-engineering) |
 | ↳ | Structures, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/f56d5e47-24b2-4b51-9f49-84b8a2af2a97?from=github-engineering) |
