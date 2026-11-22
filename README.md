@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>574 open roles</sub>
+<sub>573 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -216,7 +216,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Fleetway** | Chemical Engineering – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/e1943f72-22ba-422a-9955-525684e2d233?from=github-engineering) |
 | **J.D. Irving** | Chemical Engineering Student – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/73e56732-df12-4226-8045-eda4da0ba38f?from=github-engineering) |
 | **CURA** | Engineering, Co-op | Calgary, AB | — | Nov 2 | [Apply ↗](https://coawp.com/go/437b615f-8993-453f-ae90-a9e2a03561a8?from=github-engineering) |
-| **Moment Energy** | Certification Engineer, Co-op | Surrey, BC | — | Nov 2 | [Apply ↗](https://coawp.com/go/df7e2505-4f82-4046-8c4b-9e3164f92701?from=github-engineering) |
 | **Alcoa** | Environment-Energy – Chemical Engineering, Intern | Quebec | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/c29a2c80-cb64-47b3-9915-09ec5495d278?from=github-engineering) |
 | **AtkinsRéalis** | Civil Engineering, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/d93c57fd-af27-4b04-9876-fbc4a990dc7d?from=github-engineering) |
 | ↳ | Rail Infrastructure, Co-op | Canada | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/29c00b52-bd4d-424a-af0b-451370492d27?from=github-engineering) |
