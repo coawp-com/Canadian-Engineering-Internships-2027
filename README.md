@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**571 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>573 open roles</sub>
+<sub>571 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -314,7 +314,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Qualcomm** | Camera Design Implementation, Intern | Vancouver, BC | Summer 2027<br><sub>16 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/57c557cd-aeb4-44f5-9312-88f1c362c97a?from=github-engineering) |
 | **Strathcona Resources** | Plant Operators, Intern | Saskatchewan<br>Macklin, SK | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/3033206c-6439-4db8-9ff1-b6019dbb33e3?from=github-engineering) |
 | ↳ | Rail Operators, Intern | North Battleford, SK | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/e4f38889-eee2-42b3-888a-e4ab50fea179?from=github-engineering) |
-| **TC Energy** | Gas Operations, Intern | Swift Current, SK | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/51a58c5d-40f0-482d-8f55-192a8ce544aa?from=github-engineering) |
 | **R.J. Burnside & Associates** | Civil Engineering Technology, Intern | Orangeville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/b93cb2b3-cba3-4759-85a5-1038f06594ef?from=github-engineering) |
 | **Fleetway** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/1b1ab106-036a-442f-9fcc-2d24eb833726?from=github-engineering) |
 | **J.D. Irving** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/fbbce078-df48-4836-8a2b-27c3c7897c3a?from=github-engineering) |
@@ -331,7 +330,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Magna** | Manufacturing Engineering, Co-op | Brampton, ON | 12 months | Oct 20 | [Apply ↗](https://coawp.com/go/cb0777c4-c2de-4136-b854-6dd54fc00ab3?from=github-engineering) |
 | **Qualcomm** | Display Hardware Architecture Development – Edge AI, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/c3aa630d-7e8d-4b23-bbed-b22c0b935e5d?from=github-engineering) |
 | **Rockwell Automation** | Delivery – Projects, Co-op | Cambridge, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/bc59516f-8d9d-4190-8c78-7bfe9592628c?from=github-engineering) |
-| **TransAlta** | Dam Safety Engineering, Intern | Calgary, AB | 12 or 16 months | Oct 20 | [Apply ↗](https://coawp.com/go/847fc955-eaa0-4ccf-a164-fcc4a011f6f1?from=github-engineering) |
 | **MDA Space** | Engineering – Automation, Intern<br><sub>Requires French</sub> | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/74fd8a63-a90c-4ef4-8235-0d5cac31265c?from=github-engineering) |
 | ↳ | Engineering – Electronic Manufacturing, Intern<br><sub>Requires French</sub> | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/fd86db3b-280f-4195-b91c-be3582b8b79d?from=github-engineering) |
 | **Stantec** | Geotechnical Engineering, Co-op | Calgary, AB<br>Vancouver, BC<br><sub>Hybrid, +2 more</sub> | Summer 2027<br><sub>4 or 18 months</sub> | Oct 20 | [Apply ↗](https://coawp.com/go/57f0a040-d307-485f-b3ea-b44a7bacf614?from=github-engineering) |
