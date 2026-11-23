@@ -28,6 +28,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Hatch** | Instrumentation, Intern | Sorel-Tracy, QC | Winter 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/2b58f768-bfa3-4aa0-8045-d35a9b8166c5?from=github-engineering) |
 | **Marvell** | Analog Design, Intern | Ottawa, ON | — | Nov 22 | [Apply ↗](https://coawp.com/go/b4288edd-933e-4b33-9758-c1c1cc0627ad?from=github-engineering) |
 | **P&G** | Automation Apprenticeship, Co-op | Canada | Winter 2027<br><sub>4 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/7a3babd0-c20d-4b22-baee-5962f83928f1?from=github-engineering) |
+| **Saputo** | Mechanical Engineer, Intern | Saskatoon, SK | Summer 2027 | Nov 22 | [Apply ↗](https://coawp.com/go/0be19cbd-4387-4d9b-935c-4cd8e5746bc0?from=github-engineering) |
 | **Thales** | Hardware, Intern<br><sub>Requires French</sub> | Montréal, QC<br><sub>Hybrid</sub> | 4 months | Nov 22 | [Apply ↗](https://coawp.com/go/3d5fe586-c2b0-4e0e-a073-8c743cbec4a8?from=github-engineering) |
 | **Kiewit** | Field Coordinator/​Engineer, Intern | Québec, QC | — | Nov 20 | [Apply ↗](https://coawp.com/go/8b0a65a8-5bfb-4623-85a5-8fcdea4489b5?from=github-engineering) |
 | **Kinectrics** | Electrical Engineering, Co-op | Toronto, ON | Winter 2027<br><sub>12 or 16 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/7d52c660-12c2-454f-81e2-9e495c51c3d0?from=github-engineering) |
@@ -69,6 +70,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Kinectrics** | Engineering – Inspection & Maintenance Systems, Co-op | Toronto, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 17 | [Apply ↗](https://coawp.com/go/c9c52a22-9d1d-4660-a71b-642ea51445c8?from=github-engineering) |
 | **Magellan Aerospace** | Summer Student | Winnipeg, MB | 8 months | Nov 17 | [Apply ↗](https://coawp.com/go/83c02aaa-f52f-4cd0-aa69-7775464b7864?from=github-engineering) |
 | **Saputo** | Maintenance & Reliability, Intern | Brandon, MB | Summer 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/e97003d8-50c3-4248-822f-e50027cdd1b8?from=github-engineering) |
+| ↳ | Mechanical and Electrical Engineer, Intern | Saskatoon, SK | Summer 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/eace2bbb-cef2-4daf-8bdf-aa34ffb43bbd?from=github-engineering) |
 | ↳ | Reliability Analyst, Intern | Georgetown, ON | Summer 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/f93583a9-72ce-4d90-a234-b58733464389?from=github-engineering) |
 | **Vanderlande** | Integration, Co-op | Vancouver, BC | — | Nov 17 | [Apply ↗](https://coawp.com/go/6570c744-e5ca-4b07-aa5b-f7b607482936?from=github-engineering) |
 | **Rocket Lab** | Quality Engineering, Intern | Toronto, ON | Spring 2027 | Nov 17 | [Apply ↗](https://coawp.com/go/2276f53e-f007-47fd-8618-be298ee2c3ad?from=github-engineering) |
@@ -125,8 +127,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **PCL Construction** | Engineering, Intern | Halifax, NS | Winter 2027<br><sub>4 or 8 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/40a934c0-94ab-4617-a78f-b2d3425c69ad?from=github-engineering) |
 | **Saputo** | Maintenance Tech/​Engineer, Intern | Mount Pearl, NL | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/212987a4-822e-4a69-855a-a47c513c5b0a?from=github-engineering) |
 | **Varian (Siemens Healthineers)** | Calibration Engineer, Co-op | Ottawa, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/58fdcb70-dd9b-40be-85bc-0c712568e422?from=github-engineering) |
-| **Fleetway** | Civil Engineering, Intern | Saint John, NB | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/5d3ca6f4-511d-4cb8-b45b-9354991f875e?from=github-engineering) |
-| **J.D. Irving** | Civil Engineering, Intern | Saint John, NB | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/5188ebd4-c9c0-4ea0-a8c0-bce6dfc70585?from=github-engineering) |
 | **Honeywell Aerospace** | Bachelors Elect Eng, Intern | Mississauga, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/6f1c6c13-b6c7-4ffc-8ee2-7f9a5472aa47?from=github-engineering) |
 | **Amrize (Lafarge Canada)** | Industrial – Production, Maintenance, Optimization, Intern<br><sub>Requires French</sub> | Saint-Constant, QC | — | Nov 10 | [Apply ↗](https://coawp.com/go/ead36e1b-6520-4e63-8c6c-5a514dc91ca4?from=github-engineering) |
 | ↳ | Industrial – Production, Maintenance, Optimization, Intern<br><sub>Requires French</sub> | Saint-Constant, QC | — | Nov 10 | [Apply ↗](https://coawp.com/go/1f1ebdc0-8e9a-4347-8033-11544f141209?from=github-engineering) |
