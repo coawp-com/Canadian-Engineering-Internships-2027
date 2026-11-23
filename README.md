@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>574 open roles</sub>
+<sub>573 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -23,7 +23,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AECOM** | Transportation Engineering, Intern | Winnipeg, MB | Summer 2027<br><sub>4 or 6 months</sub> | Nov 20 | [Apply ↗](https://coawp.com/go/75fff21f-a0ac-4cdb-8375-d265abd5dba6?from=github-engineering) |
 | **AON3D** | Mechanical Designer, Intern | Montréal, QC | Winter 2027 | Nov 20 | [Apply ↗](https://coawp.com/go/31090b52-96e5-4cf3-882a-f6288f4a9ad5?from=github-engineering) |
 | **ABB** | Quality, Intern | Saint-Laurent, QC | Winter 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/1dea01ec-a534-408f-9248-e0ed4eaa87f4?from=github-engineering) |
-| **BlackBerry** | Hardware Engineering – Radar, Intern | Waterloo, ON | 4 or 8 months | Nov 19 | [Apply ↗](https://coawp.com/go/6e84e534-cc9b-4b99-9b7d-8f75b7e0336f?from=github-engineering) |
 | **Halton Region** | CADD, Co-op | Oakville, ON | Summer 2027<br><sub>8 months</sub> | Nov 19 | [Apply ↗](https://coawp.com/go/b7d8f91d-69d4-4036-94c3-e053261add0e?from=github-engineering) |
 | **PCL Construction** | Engineering/​Technical, Intern | Saskatoon, SK | 4, 8, 12 or 16 months | Nov 19 | [Apply ↗](https://coawp.com/go/f5658bac-fd60-4e16-a635-3edbd093dc91?from=github-engineering) |
 | **Saputo** | Engineering, Intern | Georgetown, ON | Summer 2027 | Nov 19 | [Apply ↗](https://coawp.com/go/c3e15424-c6b4-494c-a698-0daedbb63604?from=github-engineering) |
