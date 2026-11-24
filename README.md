@@ -17,6 +17,8 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Keolis Canada** | Railway Research and Engineering, Intern | Montréal, QC | 4 or 12 months | Nov 24 | [Apply ↗](https://coawp.com/go/54c1330c-e196-45b8-863f-b5b31fb0051d?from=github-engineering) |
+| **Altera** | Embedded Solutions, Intern | Toronto, ON | — | Nov 23 | [Apply ↗](https://coawp.com/go/ff79d9a7-9148-4245-98b8-a11e731eac25?from=github-engineering) |
 | **Hatch** | Dam and Hydroelectric Engineering, Intern | St. John's, NL | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/bb25ac3a-d4eb-4035-87cc-cab9aa2cead8?from=github-engineering) |
 | ↳ | Hydropower & Dams Engineering, Intern | St. John's, NL | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/20316904-f8d0-4b1f-a186-c295eb86c16d?from=github-engineering) |
 | **PCL Construction** | Engineering, Intern | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/3c80cb6c-d20e-434f-82bb-b4e6bbb2d63f?from=github-engineering) |
@@ -26,7 +28,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Environmental Engineering, Intern | Montréal, QC | — | Nov 23 | [Apply ↗](https://coawp.com/go/70322f5e-7dc8-49fe-9141-484e73632dc1?from=github-engineering) |
 | **All-Fab Building Components** | Design Technician, Co-op | Winnipeg, MB | — | Nov 23 | [Apply ↗](https://coawp.com/go/c8021ec8-ee63-4db2-9100-33996c808d61?from=github-engineering) |
 | **De Havilland Aircraft of Canada** | Engineering, Intern | Calgary, AB | Winter 2027<br><sub>12 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/ae1c40bf-048a-463a-a7c1-53871a932842?from=github-engineering) |
-| **Airbus** | Reliability Specialist, Intern | Mirabel, QC | — | Nov 22 | [Apply ↗](https://coawp.com/go/2e0f562b-a893-4774-bec8-3f6f6bce702e?from=github-engineering) |
 | **Bird Construction** | Digital Construction Coordinator – Data Centres, Student | Regina, SK | Winter 2027<br><sub>8 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/69c17c7c-e2ab-4623-89d3-aa34ce2167f6?from=github-engineering) |
 | **Bombardier** | Product Development – Air Systems Engineering, Intern | Mississauga, ON | Summer 2027<br><sub>16 months</sub> | Nov 22 | [Apply ↗](https://coawp.com/go/743abc4c-b5e4-482e-bd6a-e80b37822374?from=github-engineering) |
 | **City of Brampton** | Engineering Assistant – Energy Mgmt, Co-op | Brampton, ON | 4 months | Nov 22 | [Apply ↗](https://coawp.com/go/dc8cf29c-1e0a-4d8f-b108-abdb132a6b3a?from=github-engineering) |
@@ -449,7 +450,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **WSP** | Transportation Planning, Intern | Vancouver, BC | — | Oct 2 | [Apply ↗](https://coawp.com/go/68fc063f-a643-48f4-bc48-3b1a8db04007?from=github-engineering) |
 | **Lyft** | Field Quality Engineering – Hardware, Intern<br><sub>Requires French</sub> | Longueuil, QC | — | Oct 2 | [Apply ↗](https://coawp.com/go/eb5f22e4-794e-4acc-a7fe-dd7eb060faa8?from=github-engineering) |
 | ↳ | Hardware Field Quality Engineer, Intern<br><sub>Requires French</sub> | Longueuil, QC | Summer 2027 | Oct 2 | [Apply ↗](https://coawp.com/go/3adbc8ae-9e41-4920-973b-0869e5a3e003?from=github-engineering) |
-| **Stantec** | Civil Engineering, Co-op | Saskatoon, SK | Summer 2027<br><sub>16 months</sub> | Oct 2 | [Apply ↗](https://coawp.com/go/1871a557-7280-4cf6-b774-6cf288bfe379?from=github-engineering) |
 | **McElhanney** | Geomatics – Major Projects, Intern | Calgary, AB | Summer 2027<br><sub>4 months</sub> | Oct 2 | [Apply ↗](https://coawp.com/go/e4d8882a-c3df-43a3-9cc2-4c784c463964?from=github-engineering) |
 | **Bombardier** | Airworthiness, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC | 12 or 16 months | Oct 1 | [Apply ↗](https://coawp.com/go/e58cf339-0e62-4bc6-8e2d-25c1a4fbe7b7?from=github-engineering) |
 | ↳ | Airworthiness, Intern<br><sub>Requires French</sub> | Saint-Laurent, QC | Summer 2027<br><sub>12 or 16 months</sub> | Oct 1 | [Apply ↗](https://coawp.com/go/f9617a8c-bad2-40c6-91a3-3fdd4d1cb264?from=github-engineering) |
