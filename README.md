@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>574 open roles</sub>
+<sub>573 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -129,7 +129,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Ciena** | Layout Design, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/2572b933-cde2-4c8a-a6b3-7662460ca310?from=github-engineering) |
 | **Kiewit** | Field Coordinator/​Engineer, Intern | Québec, QC | Winter 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/0ddae4eb-d1e7-4ad4-9a7d-5045f46967c3?from=github-engineering) |
 | ↳ | Geotechnical Engineering, Intern | Laval, QC | Summer 2027<br><sub>4 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/b87ba0d2-d8b7-4d1b-938a-a7bab80b3afd?from=github-engineering) |
-| **PCL Construction** | Engineering, Intern | Halifax, NS | Winter 2027<br><sub>4 or 8 months</sub> | Nov 10 | [Apply ↗](https://coawp.com/go/40a934c0-94ab-4617-a78f-b2d3425c69ad?from=github-engineering) |
 | **Saputo** | Maintenance Tech/​Engineer, Intern | Mount Pearl, NL | Summer 2027 | Nov 10 | [Apply ↗](https://coawp.com/go/212987a4-822e-4a69-855a-a47c513c5b0a?from=github-engineering) |
 | **Varian (Siemens Healthineers)** | Calibration Engineer, Co-op | Ottawa, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/58fdcb70-dd9b-40be-85bc-0c712568e422?from=github-engineering) |
 | **Honeywell Aerospace** | Bachelors Elect Eng, Intern | Mississauga, ON | — | Nov 10 | [Apply ↗](https://coawp.com/go/6f1c6c13-b6c7-4ffc-8ee2-7f9a5472aa47?from=github-engineering) |
