@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**578 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**577 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>578 open roles</sub>
+<sub>577 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -535,8 +535,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Bombardier** | Hydromechanical Engineering, Intern | Dorval, QC | Winter 2027<br><sub>4 months</sub> | Sep 9 | [Apply ↗](https://coawp.com/go/ab579c0b-1ee1-42e8-90e8-cbc25a650f0f?from=github-engineering) |
 | ↳ | Hydromechanical Systems, Intern | Dorval, QC | Winter 2027<br><sub>4 months</sub> | Sep 9 | [Apply ↗](https://coawp.com/go/abd0d157-5e50-45b2-bdf6-3cf4ae51dd8e?from=github-engineering) |
 | **Rocket Lab** | Electrical Engineering, Intern | Toronto, ON | Summer 2027 | Sep 9 | [Apply ↗](https://coawp.com/go/437f6ab6-cecf-437a-a334-d1eee2ed4802?from=github-engineering) |
-| **Astera Labs** | Product Applications Engineer – Scorpio, Intern | Vancouver, BC | — | Sep 9 | [Apply ↗](https://coawp.com/go/bb53e79f-6b38-4541-95a1-9575496272e9?from=github-engineering) |
-| ↳ | Physical Design Engineer, Intern | Toronto, ON | — | Sep 9 | [Apply ↗](https://coawp.com/go/6a37b2de-66ca-42d9-9ee9-124d5fc035f9?from=github-engineering) |
+| **Astera Labs** | Physical Design Engineer, Intern | Toronto, ON | — | Sep 9 | [Apply ↗](https://coawp.com/go/6a37b2de-66ca-42d9-9ee9-124d5fc035f9?from=github-engineering) |
 | ↳ | Digital Design Engineer, Intern | Toronto, ON | — | Sep 9 | [Apply ↗](https://coawp.com/go/1914bd61-f7bf-4ab7-8290-7bb928d6d0c9?from=github-engineering) |
 | ↳ | Design Verification Engineer, Intern | Toronto, ON | — | Sep 8 | [Apply ↗](https://coawp.com/go/d38cd12f-2a8f-404b-aecd-3e4d7d1c7cea?from=github-engineering) |
 | **Lumentum** | Advanced Packaging & Integration, Co-op | Ottawa, ON | Winter 2027<br><sub>8 or 16 months</sub> | Sep 8 | [Apply ↗](https://coawp.com/go/bfacd60a-2127-4fc4-aa6c-dfb88cc715d7?from=github-engineering) |
