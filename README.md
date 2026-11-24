@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**577 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**576 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>577 open roles</sub>
+<sub>576 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -237,8 +237,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **AtkinsRéalis** | Civil Engineering, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/d93c57fd-af27-4b04-9876-fbc4a990dc7d?from=github-engineering) |
 | ↳ | Rail Infrastructure, Co-op | Canada | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/29c00b52-bd4d-424a-af0b-451370492d27?from=github-engineering) |
 | ↳ | Rail Infrastructure, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/0750a0df-6852-47da-96fc-6838edc020a2?from=github-engineering) |
-| **Qualcomm** | Design Verification Engineering, Intern | Toronto, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/fa71257f-ad26-4c4e-9f62-5c34750f0f96?from=github-engineering) |
-| ↳ | SoC Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/5cfa5ebb-15f6-4efd-9801-8af0ed2acc4c?from=github-engineering) |
+| **Qualcomm** | SoC Engineering, Intern | Markham, ON | Summer 2027<br><sub>16 months</sub> | Nov 1 | [Apply ↗](https://coawp.com/go/5cfa5ebb-15f6-4efd-9801-8af0ed2acc4c?from=github-engineering) |
 | **Spaceium** | Mechanical, Intern | Ottawa, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/39a2be78-583b-4dcf-90d9-dcc55d4c614e?from=github-engineering) |
 | ↳ | Electrical, Intern | Ottawa, ON | — | Nov 1 | [Apply ↗](https://coawp.com/go/8ac491b3-a3ca-4cdb-b25c-ed0ad17449ac?from=github-engineering) |
 | **Amrize (Lafarge Canada)** | Engineering & QC, Co-op | Chilliwack, BC | — | Oct 31 | [Apply ↗](https://coawp.com/go/ae5ed0c1-42f6-4707-b6fe-619daa7dec61?from=github-engineering) |
