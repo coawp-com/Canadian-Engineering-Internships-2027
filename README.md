@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**573 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**574 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,12 +13,13 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>573 open roles</sub>
+<sub>574 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
 | **Hatch** | Dam and Hydroelectric Engineering, Intern | St. John's, NL | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/bb25ac3a-d4eb-4035-87cc-cab9aa2cead8?from=github-engineering) |
 | ↳ | Hydropower & Dams Engineering, Intern | St. John's, NL | Winter 2027 | Nov 23 | [Apply ↗](https://coawp.com/go/20316904-f8d0-4b1f-a186-c295eb86c16d?from=github-engineering) |
+| **PCL Construction** | Engineering, Intern | Halifax, NS | Winter 2027<br><sub>4 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/3c80cb6c-d20e-434f-82bb-b4e6bbb2d63f?from=github-engineering) |
 | **MDA Space** | Engineering – Mission Operations, Intern | Brampton, ON | 8 or 16 months | Nov 23 | [Apply ↗](https://coawp.com/go/8f64bf59-cf48-4097-9f52-40216293f65c?from=github-engineering) |
 | **WSP** | Mechanical Engineering, Intern | Ottawa, ON | Winter 2027<br><sub>4 or 8 months</sub> | Nov 23 | [Apply ↗](https://coawp.com/go/cd273e45-2889-4d46-8104-bb1d947622d5?from=github-engineering) |
 | ↳ | Mechanical Engineering, Intern | Montréal, QC | — | Nov 23 | [Apply ↗](https://coawp.com/go/102bfbb0-523c-4063-bb3a-5311eb19c7ec?from=github-engineering) |
