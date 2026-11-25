@@ -17,6 +17,9 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Canadian Natural Resources** | Geotechnical Engineering, Intern | Calgary, AB<br>Fort McMurray, AB | Summer, Fall 2027<br><sub>12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/00ec211f-02c2-4843-8f39-d9797ab11433?from=github-engineering) |
+| **AMETEK** | Mechanical Design, Intern | Laval, QC | Winter 2027 | Nov 24 | [Apply ↗](https://coawp.com/go/c185247f-8442-4c65-8071-6e11902eda75?from=github-engineering) |
+| ↳ | Mechanical Designer, Intern<br><sub>Requires French</sub> | Laval, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/bba83db0-50ee-4923-84a2-2329fcc23152?from=github-engineering) |
 | **Stantec** | Geotechnical Engineering, Intern | Edmonton, AB | Winter 2027<br><sub>8 months</sub> | Nov 24 | [Apply ↗](https://coawp.com/go/28e90260-2294-4219-b57c-910bdb7d8cd5?from=github-engineering) |
 | **CIMA+** | Civil, Electrical or Telecommunications Technician, Intern<br><sub>Requires French</sub> | Sherbrooke, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/3ddf5041-87ba-4e10-99c7-68bca4ba2f14?from=github-engineering) |
 | ↳ | Civil, Electrical or Telecommunications Technician, Intern<br><sub>Requires French</sub> | Laval, QC | — | Nov 24 | [Apply ↗](https://coawp.com/go/32cbe445-2905-4837-a3b3-2838163bbf1c?from=github-engineering) |
@@ -283,8 +286,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **CIMCO Refrigeration** | Automation Engineering, Co-op | Burlington, ON | Winter 2027<br><sub>12 or 16 months</sub> | Oct 27 | [Apply ↗](https://coawp.com/go/de8822d4-9ed5-43bd-8f01-47fa30d3aaab?from=github-engineering) |
 | **NovAtel (Hexagon)** | Sales Engineering, Intern | Calgary, AB | Summer 2027<br><sub>12 months</sub> | Oct 27 | [Apply ↗](https://coawp.com/go/1d538c37-c4f2-4bbb-a3ef-0f55e3940994?from=github-engineering) |
 | **Stantec** | Mechanical Engineering – Buildings, Intern | Vancouver, BC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/df9f0abc-2c76-4b4f-8a63-6071b4db62f1?from=github-engineering) |
-| **AMETEK** | Mechanical Design, Intern | Laval, QC | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/c185247f-8442-4c65-8071-6e11902eda75?from=github-engineering) |
-| ↳ | Mechanical Designer, Intern<br><sub>Requires French</sub> | Laval, QC | — | Oct 26 | [Apply ↗](https://coawp.com/go/bba83db0-50ee-4923-84a2-2329fcc23152?from=github-engineering) |
 | **BESTECH** | Mechanical Engineering (EIT), Intern | Greater Sudbury, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/fe7ea808-c8d1-4e56-bd1f-58de8b183879?from=github-engineering) |
 | **FortisBC** | Engineering – Distribution Lines, Co-op | Kelowna, BC | Winter 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/8f4a0ea0-33d6-4607-85be-5c7aa0522604?from=github-engineering) |
 | **Magna** | WCM, Co-op | Brampton, ON | — | Oct 26 | [Apply ↗](https://coawp.com/go/d8a7f708-988b-44ab-b4a5-971f7385d60e?from=github-engineering) |
@@ -561,7 +562,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Engineering – Oil Sands Plant, Intern | Fort McMurray, AB | Winter, Fall 2027<br><sub>8 or 12 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/b685f577-e201-4ff5-b8e7-ff99ab1a8749?from=github-engineering) |
 | ↳ | Exploitation Engineering – Conventional/​Thermal, Intern | Calgary, AB | Winter, Summer, Fall 2027<br><sub>4, 8 or 12 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/de4722d1-fe21-4b84-9ee8-f656fea71d2a?from=github-engineering) |
 | ↳ | Facilities Projects Engineering, Intern | Calgary, AB<br>Red Deer, AB<br><sub>+1 more</sub> | Winter, Summer, Fall 2027<br><sub>4, 8 or 12 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/d5a2d10a-3fe7-4ce9-8417-960f4962862b?from=github-engineering) |
-| ↳ | Geotechnical Engineering, Intern | Calgary, AB<br>Fort McMurray, AB | Summer, Fall 2027<br><sub>12 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/ae07f60f-6538-4e43-9241-819492441ca4?from=github-engineering) |
 | ↳ | Geotechnical Instrumentation Monitoring, Intern | Fort McMurray, AB | Summer 2027<br><sub>12 or 16 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/fa9fe47d-4547-4d5e-92c5-ea30dad0dc77?from=github-engineering) |
 | ↳ | Lab Technician – Geotechnical, Intern | Fort McMurray, AB | Summer 2027<br><sub>4, 8 or 12 months</sub> | Aug 17 | [Apply ↗](https://coawp.com/go/b11a4e1d-8da0-4c95-822d-b2aa3c954a32?from=github-engineering) |
 | ↳ | Mechanical Engineering – Projects, Intern | Calgary, AB<br>Fort McMurray, AB | 4, 8 or 12 months | Aug 17 | [Apply ↗](https://coawp.com/go/4f111bd1-a4ad-44ac-a614-e9c799f5bc52?from=github-engineering) |
