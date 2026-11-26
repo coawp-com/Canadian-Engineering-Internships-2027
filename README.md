@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**561 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**562 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,10 +13,11 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>561 open roles</sub>
+<sub>562 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **WSP** | Mechanical Engineering, Intern | Rouyn-Noranda, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/7404e512-4fd2-41b0-8044-9b5991661186?from=github-engineering) |
 | **Kinectrics** | Engineering – Process Controls, Co-op | Toronto, ON | Winter 2027<br><sub>8 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/5ec03b6d-2a6c-484b-824c-a3aafa0868da?from=github-engineering) |
 | **AECOM** | Engineering – Airport Projects, Intern | Mississauga, ON | Winter, Summer 2027<br><sub>6 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/38b13c0b-5bef-4c76-8377-eb91aa3e0d6a?from=github-engineering) |
 | ↳ | Civil-Environmental Engineering, Intern | Calgary, AB | Summer 2027 | Nov 25 | [Apply ↗](https://coawp.com/go/08862749-5a9d-434a-8cf3-3cdaf64ae5a8?from=github-engineering) |
