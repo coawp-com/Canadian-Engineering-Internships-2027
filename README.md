@@ -17,6 +17,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Kinectrics** | Engineering – Process Controls, Co-op | Toronto, ON | Winter 2027<br><sub>8 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/5ec03b6d-2a6c-484b-824c-a3aafa0868da?from=github-engineering) |
 | **AECOM** | Engineering – Airport Projects, Intern | Mississauga, ON | Winter, Summer 2027<br><sub>6 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/38b13c0b-5bef-4c76-8377-eb91aa3e0d6a?from=github-engineering) |
 | ↳ | Civil-Environmental Engineering, Intern | Calgary, AB | Summer 2027 | Nov 25 | [Apply ↗](https://coawp.com/go/08862749-5a9d-434a-8cf3-3cdaf64ae5a8?from=github-engineering) |
 | **Veolia** | Field Engineering, Co-op | Hamilton, ON | Summer 2027<br><sub>16 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/6a3453ef-fe60-419d-9175-f98571cec7a5?from=github-engineering) |
@@ -309,7 +310,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **IKO** | Process Engineering, Co-op | Hawkesbury, ON | — | Oct 25 | [Apply ↗](https://coawp.com/go/fa7924de-f354-4118-be05-d4bd4677f98f?from=github-engineering) |
 | **StandardAero** | Engineering – Quality, Intern | Winnipeg, MB | 4 months | Oct 23 | [Apply ↗](https://coawp.com/go/235549e5-260a-47b9-8379-10b01ca02629?from=github-engineering) |
 | **ERCO Worldwide** | Electrical Engineering, Co-op | Mississauga, ON | Summer 2027<br><sub>8 months</sub> | Oct 23 | [Apply ↗](https://coawp.com/go/35165e6f-11a9-4c5f-9959-cf18dc1a257c?from=github-engineering) |
-| **FortisBC** | Engineering – Stations, Co-op | Trail, BC | Winter 2027<br><sub>8 months</sub> | Oct 22 | [Apply ↗](https://coawp.com/go/f9bd0f49-b180-47d7-a914-ddbf7bc1b2f5?from=github-engineering) |
 | **Altera** | IP Design, Intern | Toronto, ON | — | Oct 22 | [Apply ↗](https://coawp.com/go/1242baf4-9402-4953-be9a-bbbc2bb5b0f1?from=github-engineering) |
 | **Bombardier** | Cabin and Avionics Systems – Technical Services, Intern<br><sub>Requires French</sub> | Dorval, QC | Winter 2027 | Oct 22 | [Apply ↗](https://coawp.com/go/99ad9e65-f90f-422c-8a86-79e4694672e3?from=github-engineering) |
 | ↳ | Customer Services for Avionics and Cabins, Intern | Dorval, QC | — | Oct 22 | [Apply ↗](https://coawp.com/go/ec8f433f-c6da-4edc-a885-9fa217b024a1?from=github-engineering) |
