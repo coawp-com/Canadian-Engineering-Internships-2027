@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**562 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**559 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>562 open roles</sub>
+<sub>559 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -260,7 +260,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Fleetway** | Chemical Engineering – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/e1943f72-22ba-422a-9955-525684e2d233?from=github-engineering) |
 | **J.D. Irving** | Chemical Engineering Student – Lake Utopia Paper, Co-op | New Brunswick | Winter 2027<br><sub>8 months</sub> | Nov 2 | [Apply ↗](https://coawp.com/go/73e56732-df12-4226-8045-eda4da0ba38f?from=github-engineering) |
 | **CURA** | Engineering, Co-op | Calgary, AB | — | Nov 2 | [Apply ↗](https://coawp.com/go/437b615f-8993-453f-ae90-a9e2a03561a8?from=github-engineering) |
-| **Alcoa** | Environment-Energy – Chemical Engineering, Intern | Quebec | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/c29a2c80-cb64-47b3-9915-09ec5495d278?from=github-engineering) |
 | **AtkinsRéalis** | Civil Engineering, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/d93c57fd-af27-4b04-9876-fbc4a990dc7d?from=github-engineering) |
 | ↳ | Rail Infrastructure, Co-op | Canada | Winter 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/29c00b52-bd4d-424a-af0b-451370492d27?from=github-engineering) |
 | ↳ | Rail Infrastructure, Intern | Canada | Summer 2027 | Nov 1 | [Apply ↗](https://coawp.com/go/0750a0df-6852-47da-96fc-6838edc020a2?from=github-engineering) |
@@ -307,7 +306,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Strathcona Resources** | Plant Operator, Student | Cold Lake, AB | 4 or 8 months | Oct 26 | [Apply ↗](https://coawp.com/go/91ffb242-0868-46a0-a6db-ca69a0b08151?from=github-engineering) |
 | **Tolko Industries** | Automation & Controls, Intern | Slave Lake, AB | Winter, Summer 2027<br><sub>8 months</sub> | Oct 26 | [Apply ↗](https://coawp.com/go/e0a40cd3-50da-4db1-a23a-414a24359ca6?from=github-engineering) |
 | **Groupe Montoni** | Superintendence, Intern<br><sub>Requires French</sub> | Laval, QC | Winter 2027 | Oct 26 | [Apply ↗](https://coawp.com/go/1de9e21c-7f3e-4813-a294-291e645e1e72?from=github-engineering) |
-| **Alcoa** | Reliability Maintenance, Intern | Quebec | Winter 2027<br><sub>4 months</sub> | Oct 25 | [Apply ↗](https://coawp.com/go/d548d44f-f299-4b9a-b397-0ccbb94492d4?from=github-engineering) |
 | **AtkinsRéalis** | Building Structures, Intern<br><sub>Requires French</sub> | Canada | — | Oct 25 | [Apply ↗](https://coawp.com/go/36a7fff9-2702-4473-9bb7-c8f2104ff9b2?from=github-engineering) |
 | ↳ | Civil, Intern<br><sub>Requires French</sub> | Canada | — | Oct 25 | [Apply ↗](https://coawp.com/go/e6210bca-889e-41ed-8663-1c5da8482f54?from=github-engineering) |
 | ↳ | Hydroelectricity and Geotechnics, Intern<br><sub>Requires French</sub> | Canada | — | Oct 25 | [Apply ↗](https://coawp.com/go/5ab143f2-304c-4491-90a9-c512cb9c4f7f?from=github-engineering) |
@@ -335,7 +333,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Nutrien** | Instrumentation, Intern | Saskatchewan | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/466ce6e8-59c7-413f-b179-b8b955b1a567?from=github-engineering) |
 | **Qualcomm** | Camera Design Implementation, Intern | Vancouver, BC | Summer 2027<br><sub>16 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/57c557cd-aeb4-44f5-9312-88f1c362c97a?from=github-engineering) |
 | **Strathcona Resources** | Plant Operators, Intern | Saskatchewan<br>Macklin, SK | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/3033206c-6439-4db8-9ff1-b6019dbb33e3?from=github-engineering) |
-| ↳ | Rail Operators, Intern | North Battleford, SK | Summer 2027<br><sub>4 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/e4f38889-eee2-42b3-888a-e4ab50fea179?from=github-engineering) |
 | **R.J. Burnside & Associates** | Civil Engineering Technology, Intern | Orangeville, ON | Winter 2027<br><sub>4 or 8 months</sub> | Oct 21 | [Apply ↗](https://coawp.com/go/b93cb2b3-cba3-4759-85a5-1038f06594ef?from=github-engineering) |
 | **Fleetway** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/1b1ab106-036a-442f-9fcc-2d24eb833726?from=github-engineering) |
 | **J.D. Irving** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Oct 21 | [Apply ↗](https://coawp.com/go/fbbce078-df48-4836-8a2b-27c3c7897c3a?from=github-engineering) |
