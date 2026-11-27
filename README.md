@@ -17,6 +17,10 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Hatch** | Civil Engineering, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/91ebb8c0-b6bd-4051-8d26-5e8d633b81b5?from=github-engineering) |
+| ↳ | Civil Engineering, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/c4d248c1-d9e3-41cb-9f7e-1c241a65ec6a?from=github-engineering) |
+| ↳ | Structures, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/f56d5e47-24b2-4b51-9f49-84b8a2af2a97?from=github-engineering) |
+| ↳ | Structures, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/e40f6698-65cf-46b3-8b3a-80ef4ab789a3?from=github-engineering) |
 | **WSP** | Highways and Urban Roads, Co-op | Winnipeg, MB | Summer 2027<br><sub>6 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/ae9379b9-af7d-49f4-a5c9-dfcc7d8bb755?from=github-engineering) |
 | **Canam** | Coordination and Drafting Support, Intern | Saint-Georges, QC<br><sub>Hybrid</sub> | — | Nov 26 | [Apply ↗](https://coawp.com/go/f3e46e50-f69b-4382-b5aa-9d0189569dd5?from=github-engineering) |
 | **AECOM** | Civil Engineering, Intern | Saskatoon, SK | 4 or 16 months | Nov 26 | [Apply ↗](https://coawp.com/go/4c390dde-f16e-4723-92c5-99f0de5f49f8?from=github-engineering) |
@@ -284,10 +288,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **ERCO Worldwide** | Process Engineering, Co-op | Mississauga, ON | Summer 2027<br><sub>4 months</sub> | Oct 29 | [Apply ↗](https://coawp.com/go/53bb2178-32a4-42eb-8e02-95fb6c901d20?from=github-engineering) |
 | **AtkinsRéalis** | Construction and Estimation, Intern<br><sub>Requires French</sub> | Canada | Winter 2027 | Oct 28 | [Apply ↗](https://coawp.com/go/6ee6d199-9d2c-4cc3-bb6a-46c21220bfd1?from=github-engineering) |
 | **Gibson Energy** | Operations, Intern | Alberta | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/307ea18a-19ab-4e39-80e4-3fdc59e1de89?from=github-engineering) |
-| **Hatch** | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/91ebb8c0-b6bd-4051-8d26-5e8d633b81b5?from=github-engineering) |
-| ↳ | Civil Engineering, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/c4d248c1-d9e3-41cb-9f7e-1c241a65ec6a?from=github-engineering) |
-| ↳ | Structures, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/f56d5e47-24b2-4b51-9f49-84b8a2af2a97?from=github-engineering) |
-| ↳ | Structures, Intern | Montréal, QC | — | Oct 28 | [Apply ↗](https://coawp.com/go/e40f6698-65cf-46b3-8b3a-80ef4ab789a3?from=github-engineering) |
 | **Nutrien** | Mill Maintenance Engineering, Co-op | Lanigan, SK | Summer 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/d51ee666-d6aa-41c1-9281-12ac8ac86dd8?from=github-engineering) |
 | **Morton Salt** | Engineering, Co-op | Windsor, ON | Winter 2027<br><sub>4 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/ae3544ec-791a-42ec-ae8d-732e50451fef?from=github-engineering) |
 | **MDA Space** | Engineering – Radiofrequency, Intern | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 28 | [Apply ↗](https://coawp.com/go/41163fc4-daaf-4ea8-a921-1b567ad603b2?from=github-engineering) |
