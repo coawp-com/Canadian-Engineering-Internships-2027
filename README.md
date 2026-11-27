@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**555 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**563 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,15 +13,23 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>555 open roles</sub>
+<sub>563 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
+| **Fleetway** | Civil Engineering, Intern | Saint John, NB | Summer 2027 | Nov 27 | [Apply ↗](https://coawp.com/go/4c23483a-bcb1-430b-80c2-83e01e8301e2?from=github-engineering) |
+| **J.D. Irving** | Civil Engineering, Intern | Saint John, NB | Summer 2027 | Nov 27 | [Apply ↗](https://coawp.com/go/ec9bf400-4faf-4264-95e4-e4cc354279a0?from=github-engineering) |
+| **Fleetway** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Nov 27 | [Apply ↗](https://coawp.com/go/a2ce105d-f801-4c37-87b6-da309f4a54ac?from=github-engineering) |
+| **J.D. Irving** | Mechanical Engineering, Intern | Saint John, NB | Summer 2027 | Nov 27 | [Apply ↗](https://coawp.com/go/d709658f-2320-4305-a88c-376ac11d82ce?from=github-engineering) |
 | **Canam** | Coordination and Drafting Support, Intern | Saint-Georges, QC | — | Nov 27 | [Apply ↗](https://coawp.com/go/44b70dff-95bf-4ef0-bda2-2877d46a67a6?from=github-engineering) |
+| **City of Ottawa** | Engineering Assistant, Co-op | Ottawa, ON | — | Nov 26 | [Apply ↗](https://coawp.com/go/c2cc1ba7-1593-49d5-99ac-b64a53dd8ebc?from=github-engineering) |
+| ↳ | Engineering Assistant, Co-op | Ottawa, ON | — | Nov 26 | [Apply ↗](https://coawp.com/go/ae3ffde4-ba84-4b01-8769-3d3d65ddf3c0?from=github-engineering) |
+| **Groupe Meloche** | Methods, Intern | Canada | — | Nov 26 | [Apply ↗](https://coawp.com/go/9a3871fb-660e-4a70-948d-6dd9cbb68e49?from=github-engineering) |
 | **Hatch** | Civil Engineering, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/91ebb8c0-b6bd-4051-8d26-5e8d633b81b5?from=github-engineering) |
 | ↳ | Civil Engineering, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/c4d248c1-d9e3-41cb-9f7e-1c241a65ec6a?from=github-engineering) |
 | ↳ | Structures, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/f56d5e47-24b2-4b51-9f49-84b8a2af2a97?from=github-engineering) |
 | ↳ | Structures, Intern | Montréal, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/e40f6698-65cf-46b3-8b3a-80ef4ab789a3?from=github-engineering) |
+| **Hitachi** | Manufacturing Engineering, Intern<br><sub>Requires French</sub> | Québec, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/a68be012-555b-43ea-9d21-546d2bfd0db6?from=github-engineering) |
 | **WSP** | Highways and Urban Roads, Co-op | Winnipeg, MB | Summer 2027<br><sub>6 months</sub> | Nov 26 | [Apply ↗](https://coawp.com/go/ae9379b9-af7d-49f4-a5c9-dfcc7d8bb755?from=github-engineering) |
 | **AECOM** | Civil Engineering, Intern | Saskatoon, SK | 4 or 16 months | Nov 26 | [Apply ↗](https://coawp.com/go/4c390dde-f16e-4723-92c5-99f0de5f49f8?from=github-engineering) |
 | ↳ | Civil-Environmental Engineering, Intern | Calgary, AB | Summer 2027 | Nov 26 | [Apply ↗](https://coawp.com/go/cadae184-23ae-4f84-bc29-903a832e0f6a?from=github-engineering) |
