@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**565 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**562 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>565 open roles</sub>
+<sub>562 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -425,7 +425,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Stantec** | Water/​Wastewater, Intern | Winnipeg, MB<br>Regina, SK | Summer 2027<br><sub>6 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/9b825c31-b71d-4d2f-9b11-a137ac60d66e?from=github-engineering) |
 | **WSP** | Mechanical Engineering, Intern | Laval, QC | — | Oct 6 | [Apply ↗](https://coawp.com/go/229f4d96-a18e-4301-bd68-5be3ba4c5a1c?from=github-engineering) |
 | **MDA Space** | Engineering – PCB Design and Electronic Integration, Intern | Sainte-Anne-de-Bellevue, QC | Winter 2027<br><sub>4 or 8 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/9a448ef3-2c6d-4882-a864-11c472913003?from=github-engineering) |
-| **General Dynamics Mission Systems–Canada** | Mechanical Engineering, Co-op | Calgary, AB<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 months</sub> | Oct 6 | [Apply ↗](https://coawp.com/go/90f74d3d-2d08-4dd0-9e22-cbee10513a69?from=github-engineering) |
 | **Tenstorrent** | Hardware – AI HW & SoC, Intern | Ottawa, ON | — | Oct 6 | [Apply ↗](https://coawp.com/go/8902fb7c-9bc8-4297-af4d-2af6c6bd1a0c?from=github-engineering) |
 | **Moment Energy** | Mechanical Engineering, Co-op | Surrey, BC | Winter 2027<br><sub>8 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/ba9b0ffa-4570-44fd-9f50-3c7981c3b7ed?from=github-engineering) |
 | **Nutrien** | Civil Engineering, Co-op | Saskatoon, SK | Spring 2027<br><sub>16 months</sub> | Oct 5 | [Apply ↗](https://coawp.com/go/58f206cc-7d49-452f-9adb-a8086845cd93?from=github-engineering) |
@@ -516,9 +515,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | ↳ | Women in Engineering Scholarship, Intern | Alberta<br>British Columbia | — | Sep 15 | [Apply ↗](https://coawp.com/go/1d21adeb-48eb-4664-8590-3e0273e4a7e8?from=github-engineering) |
 | ↳ | Women in Geomatics Scholarship, Intern | Alberta<br>British Columbia | — | Sep 15 | [Apply ↗](https://coawp.com/go/baa32016-f1a6-4da6-b566-ff6ee25e11cd?from=github-engineering) |
 | **Elk Valley Resources** | Mining Engineering, Co-op | Sparwood, BC | Summer 2027 | Sep 14 | [Apply ↗](https://coawp.com/go/12380673-361c-4a26-995c-4075a1f208c5?from=github-engineering) |
-| **General Dynamics Mission Systems–Canada** | Systems Integration, Verification, and Validation, Co-op | Ottawa, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>8 or 12 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/bb048d89-ba19-43a5-9e26-4a913320b311?from=github-engineering) |
-| ↳ | Systems Integration, Verification and Validation, Co-op | Ottawa, ON | Winter 2027<br><sub>4 or 8 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/b681cabe-ef9e-42c8-81d6-64265e5d82eb?from=github-engineering) |
-| ↳ | Systems Engineering, Co-op | Cole Harbour, NS<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 or 8 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/42c265e5-676b-4401-a380-38b810f58cbb?from=github-engineering) |
+| **General Dynamics Mission Systems–Canada** | Systems Engineering, Co-op | Cole Harbour, NS<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 or 8 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/42c265e5-676b-4401-a380-38b810f58cbb?from=github-engineering) |
 | ↳ | Systems Engineering, Co-op | Ottawa, ON<br><sub>Hybrid</sub> | Winter 2027<br><sub>4 or 8 months</sub> | Sep 11 | [Apply ↗](https://coawp.com/go/77d32f44-9448-46a3-ba87-80e05c2480fe?from=github-engineering) |
 | **Rocket Lab** | Mechanical Engineering, Intern | Toronto, ON | Summer 2027 | Sep 11 | [Apply ↗](https://coawp.com/go/d346927d-433b-4fad-9c25-01297a52b4de?from=github-engineering) |
 | **Armstrong Fluid Technology** | Test Engineering, Co-op | Toronto, ON | — | Sep 10 | [Apply ↗](https://coawp.com/go/b3ff9bf1-8a52-4b01-a39f-c1ce9c59eb14?from=github-engineering) |
