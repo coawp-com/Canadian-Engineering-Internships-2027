@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**564 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**565 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>564 open roles</sub>
+<sub>565 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -25,6 +25,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **J.D. Irving** | OJT Power Engineering, Intern | Prince Edward Island | — | Nov 26 | [Apply ↗](https://coawp.com/go/545b7477-f7f8-4400-8cd5-83788cf2d931?from=github-engineering) |
 | **WSP** | Mechanical Engineering, Intern<br><sub>Requires French</sub> | Montréal, QC<br>Sherbrooke, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/95d939b0-134b-4243-bc18-4b4153865a49?from=github-engineering) |
 | ↳ | Mechanical Engineering, Intern | Rouyn-Noranda, QC | — | Nov 26 | [Apply ↗](https://coawp.com/go/7404e512-4fd2-41b0-8044-9b5991661186?from=github-engineering) |
+| **Abbott** | Field Service – Core Lab, Co-op | Ontario<br><sub>Remote</sub> | — | Nov 25 | [Apply ↗](https://coawp.com/go/a20c2bd4-3bd6-44f6-b681-117616f8950c?from=github-engineering) |
 | **Aecon** | Construction Coordinator, Co-op | Toronto, ON | — | Nov 25 | [Apply ↗](https://coawp.com/go/0fb99cc9-1079-40b0-a578-744fb89e4cb1?from=github-engineering) |
 | **CPKC** | Test Department, Co-op | Winnipeg, MB | — | Nov 25 | [Apply ↗](https://coawp.com/go/7d47a190-2032-4d4a-b869-66c54a3ede75?from=github-engineering) |
 | **Kinectrics** | Engineering – Process Controls, Co-op | Toronto, ON | Winter 2027<br><sub>8 or 12 months</sub> | Nov 25 | [Apply ↗](https://coawp.com/go/5ec03b6d-2a6c-484b-824c-a3aafa0868da?from=github-engineering) |
