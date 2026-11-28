@@ -2,7 +2,7 @@
 
 # Canadian Engineering Internships 2027
 
-**566 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
+**565 open internships, co-ops and student jobs** in mechanical, electrical, civil, chemical, manufacturing and hardware engineering across Canada. Read straight from employers' own job boards and updated every 2 hours.
 
 Part of **[Canadian Internships 2027](https://github.com/coawp-com/Canadian-Internships-2027)**, the list of every field. If this helps, star that one so other students can find it.
 
@@ -13,7 +13,7 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 
 ## Engineering
 
-<sub>566 open roles</sub>
+<sub>565 open roles</sub>
 
 | Company | Role | Location | Term | Posted | |
 |:--|:--|:--|:--|:--|:--|
@@ -373,7 +373,6 @@ Also see the lists for [tech](https://github.com/coawp-com/Canadian-Tech-Interns
 | **Thales** | Engineering Quality Assurance & Logistics, Intern<br><sub>Requires French</sub> | Montréal, QC | 8 months | Oct 18 | [Apply ↗](https://coawp.com/go/04e54662-9967-4a5f-9173-5fd9670314e5?from=github-engineering) |
 | **Thermo Fisher** | Packaging Engineering, Co-op | Mississauga, ON | — | Oct 18 | [Apply ↗](https://coawp.com/go/4904f429-024a-4d60-a7a7-e6fbf2ea8c21?from=github-engineering) |
 | **Victaulic** | Manufacturing Engineer, Intern | Brampton, ON | Summer 2027<br><sub>4 months</sub> | Oct 18 | [Apply ↗](https://coawp.com/go/5ec6676a-5c2e-48a7-aac5-825d87499b70?from=github-engineering) |
-| **WSP** | Process Engineering, Intern | Vancouver, BC | 8 or 12 months | Oct 16 | [Apply ↗](https://coawp.com/go/4951ab65-2fe9-499e-bbce-91d26266c4d3?from=github-engineering) |
 | **Eclipse Automation** | Applications Engineering, Co-op | Cambridge, ON | — | Oct 16 | [Apply ↗](https://coawp.com/go/d0e8af64-14ae-4749-aaac-d802ed188f0c?from=github-engineering) |
 | **FortisBC** | Engineering – Distribution Projects, Co-op | Kelowna, BC | Winter 2027<br><sub>8 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/54fc3d4a-3357-488a-b4d8-f048ae7cf52f?from=github-engineering) |
 | **SiTime** | ASIC Digital Verification Engineer, Co-op | Ottawa, ON | Winter 2027<br><sub>4 months</sub> | Oct 15 | [Apply ↗](https://coawp.com/go/47b076b5-52ff-490b-a785-6d6621252685?from=github-engineering) |
